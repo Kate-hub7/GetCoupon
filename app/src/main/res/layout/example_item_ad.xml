@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="600px"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="10dp"
+    app:cardBackgroundColor="@android:color/transparent"
+    app:cardElevation="0dp">
+
+        <ImageView
+            android:id="@+id/adImage"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:scaleType="fitXY"
+            android:src="@drawable/delivery_club" />
+
+</androidx.cardview.widget.CardView>

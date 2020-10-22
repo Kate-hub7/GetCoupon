@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="155dp"
+    android:layout_height="150dp"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="3dp"
+    android:layout_marginLeft="3dp"
+    app:cardElevation="0dp"
+    app:cardCornerRadius="7dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/FavImage"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/FavText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/FavImage"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="5dp"
+            android:layout_toStartOf="@+id/FavButton"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:text="Line 1"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/FavButton"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignBottom="@id/FavText2"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/ic_favorite_black_24dp" />
+
+        <TextView
+            android:id="@+id/FavText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/FavText"
+            android:layout_marginTop="4dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:text="Line 2"
+            android:paddingRight="5dp"
+            android:textColor="#6E6D6D"
+            android:textSize="12sp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:singleLine="true"/>
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

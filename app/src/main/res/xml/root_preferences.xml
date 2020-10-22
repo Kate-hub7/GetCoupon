@@ -1,0 +1,58 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false"
+    android:scrollbars="none">
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="Основные">
+
+        <SwitchPreferenceCompat
+            app:iconSpaceReserved="false"
+            app:key="push"
+            app:title="Push-уведомления" />
+
+        <Preference
+            app:icon="@drawable/ic_chevron_right_black_24dp"
+            app:key="share"
+            app:summary="Нашли в интернете промокод? Отправьте нам ссылку и мы его добавим"
+            app:title="Отправить свой промокод" />
+        <Preference
+            app:icon="@drawable/ic_chevron_right_black_24dp"
+            app:key="new"
+            app:title="Что нового?" />
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="Дополнительно">
+
+        <Preference
+            app:icon="@drawable/ic_chevron_right_black_24dp"
+            app:key="rate"
+            app:title="Оцените Нас" >
+        </Preference>
+        <Preference
+            app:icon="@drawable/ic_chevron_right_black_24dp"
+            app:key="card"
+            app:title="Наш сайт-визитка" >
+        </Preference>
+        <Preference
+            app:icon="@drawable/ic_chevron_right_black_24dp"
+            app:key="review"
+            app:title="Оставить Отзыв" >
+        </Preference>
+        <Preference
+            app:icon="@drawable/ic_chevron_right_black_24dp"
+            app:key="service"
+            app:title="Правовые документы" />
+        <Preference
+            app:icon="@drawable/ic_chevron_right_black_24dp"
+            app:key="cooperation"
+            app:title="По Вопросам Сотрудничества"
+            app:summary="example@mail.ru"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

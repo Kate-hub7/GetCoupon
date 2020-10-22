@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GetCoupon</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <plurals name="plurals_coupon">
+        <item quantity="zero">%1$d Купонов</item>
+        <item quantity="one">%1$d Купон</item>
+        <item quantity="two">%1$d Купона</item>
+        <item quantity="few">%1$d Купона</item>
+        <item quantity="many">%1$d Купонов</item>
+        <item quantity="other">%1$d Купонов</item>
+    </plurals>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="intro1">"<font size="17"><b>Актуальные промокоды</b></font>\n\nМы тоже устали от уведомлений по почте и в мессенджерах! Поэтому собрали в одном приложении все промокоды, чтобы ты мог найти их, когда тебе захочется."</string>
+    <string name="intro2">"<font size="17"><b>Только полезные акции</b></font>\n\nМы тщательно отбираем для тебя\nновые промокоды, стараясь не засорять приложение ненужными акциями. Но некоторые пропускать точно не стоит!"</string>
+    <string name="intro3">"<font size="17"><b>Получай уведомления</b></font>\n\nЖми сердечко и получай уведомления о новых промокодах и скидках в любимых магазинах!"</string>
+    <string name="intro4">"<font size="17"><b>Давай улучшать приложение вместе</b></font>\n\nЕсли тебе понравилось приложение или в нём чего-то не хватает, ты можешь написать нам и мы обязательно ответим!"</string>
+
+    <string name="emptyList">"<font size="17"><b>Пока ничего</b></font>\n\nЖми на сердечко в любимых магазинах и добавляй в избранное"</string>
+</resources>

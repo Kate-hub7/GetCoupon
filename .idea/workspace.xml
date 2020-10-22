@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b2c2506-ac0c-47b8-b445-3a908b0d7189" name="Default Changelist" comment="После обновления вида магазина">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/AdsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/AdsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/CouponListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/CouponListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/FavoritesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/FavoritesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/HorizontalRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/HorizontalRecyclerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/HotRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/HotRecyclerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/PagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/PagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/SearchAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/SearchAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/SeeAllAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/SeeAllAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/VerticalAdaperFavorites.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/VerticalAdaperFavorites.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/VerticalRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Adapter/VerticalRecyclerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/FavoritesFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Fragments/FavoritesFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/FirebaseMessaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/FirebaseMessaging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Fragments/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/Ad.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/Ad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/PromoCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/PromoCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/JsonModel/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/ListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Fragments/ListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Onboard/CustomIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Onboard/CustomIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/SearchFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Fragments/SearchFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/SeeAllFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Fragments/SeeAllFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Settings/FeedbackFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Settings/FeedbackFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Settings/ShareFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Settings/ShareFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Settings/TermsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Settings/TermsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/ShopFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/Fragments/ShopFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/byCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/byCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/byDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/sukhikh/appgetcoupon/byDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/enter_from_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/exit_to_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_language_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_local_offer_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_share_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/example_card_horizontal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/example_card_horizontal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/example_card_hot.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/example_card_hot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/example_item_vertical.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/example_item_vertical.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/vertical_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Kate\keys.jks" />
+    <option name="KEY_ALIAS" value="AppKey" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fHXlGUBfOEaMUuW8psroJQzEWz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="app" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Kate\AndroidStudioProjects\AppCoupon\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b2c2506-ac0c-47b8-b445-3a908b0d7189" name="Default Changelist" comment="" />
+      <created>1595876140644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595876140644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Kate/AndroidStudioProjects/AppCoupon/app/src/main/java/com/example/appgetcoupon" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="После обновления вида магазина" />
+    <option name="LAST_COMMIT_MESSAGE" value="После обновления вида магазина" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="token.get(0)" language="JAVA" />
+        <watch expression="token.get(1)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
